@@ -1,4 +1,0 @@
-{% raw %}
-{% seo %}
-{% endraw %}
-theme: jekyll-theme-slate
